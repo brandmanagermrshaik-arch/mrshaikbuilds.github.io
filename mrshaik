@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mohammed Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header class="nav">
+<div class="container">
+<h1 class="logo">MOHAMMED</h1>
+
+<nav>
+<a href="#about">About</a>
+<a href="#work">Work</a>
+<a href="#services">Services</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</div>
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>
+Designing <span>Digital</span> Experiences
+</h1>
+
+<p>
+Creative Designer crafting modern web experiences
+</p>
+
+<a class="btn">View Work</a>
+
+</div>
+
+</section>
+
+<section id="about" class="section">
+
+<div class="container">
+
+<h2>About Me</h2>
+
+<p>
+Passionate designer transforming ideas into powerful digital products.
+Focused on UI, UX and brand identity.
+</p>
+
+</div>
+
+</section>
+
+<section id="work" class="section work">
+
+<div class="container">
+
+<h2>Selected Work</h2>
+
+<div class="grid">
+
+<div class="card"></div>
+<div class="card"></div>
+<div class="card"></div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="services" class="section">
+
+<div class="container">
+
+<h2>Services</h2>
+
+<div class="services">
+
+<div class="service">
+<h3>UI Design</h3>
+<p>Modern interface design</p>
+</div>
+
+<div class="service">
+<h3>UX Strategy</h3>
+<p>User centered experiences</p>
+</div>
+
+<div class="service">
+<h3>Brand Identity</h3>
+<p>Visual systems & design</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact" class="section contact">
+
+<div class="container">
+
+<h2>Let's Work Together</h2>
+
+<button class="btn">Contact</button>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© Mohammed Portfolio</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
